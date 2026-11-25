@@ -1,0 +1,23 @@
+.class public Ljavax/microedition/rms/RecordStoreNotFoundException;
+.super Ljavax/microedition/rms/RecordStoreException;
+.source "RecordStoreNotFoundException.java"
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .line 4
+    invoke-direct {p0}, Ljavax/microedition/rms/RecordStoreException;-><init>()V
+
+    return-void
+.end method
+
+.method public constructor <init>(Ljava/lang/String;)V
+    .locals 0
+
+    .line 5
+    invoke-direct {p0, p1}, Ljavax/microedition/rms/RecordStoreException;-><init>(Ljava/lang/String;)V
+
+    return-void
+.end method

@@ -1,0 +1,119 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: L9jGlNCafJSLzSWaeeG7VSozD2dlDb3h2e+Nq+Zlaug=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: KuO0GyS9HkREyciTx17JxK3CV/u1wtzcmZREL+Ttx6w=
+
+Name: assets/a.mbf
+SHA-256-Digest: /0nBHc7EEbj/+tL3MYJZ6pVCZLjNZi/bdvu52NjiSnY=
+
+Name: assets/b.mbf
+SHA-256-Digest: UNALMTXLsOBVQFuEdPuPnqeVk6emoDPF1N/jX4muT2c=
+
+Name: assets/c.mbf
+SHA-256-Digest: RIRH3Q9SS+xgjP3QtYrMW5/n9efIdQw2meZEhaM6Ahs=
+
+Name: assets/charmap
+SHA-256-Digest: 4VyRKvO7lmK4VlPCC8ZkvcWRUGpcxuDe6guBYrrp0yc=
+
+Name: assets/d.mbf
+SHA-256-Digest: o0fEk0RqZfks5b2P2+S7p/CfppVpySj3m66D4sNC3CQ=
+
+Name: assets/df0_0
+SHA-256-Digest: GoZA7m/fSFbla9vipdDwh/imZnPCneJ1/X/CzWAUbPk=
+
+Name: assets/df1_0
+SHA-256-Digest: M1BzMkuJlzhfj9l6YS3Lq4Y9S8NBkSEjuVoRg78yZz0=
+
+Name: assets/df2_0
+SHA-256-Digest: vNkNDkeHk+r+DxUqfij+HsOjcUbQ2E4a2bGm/RafDMQ=
+
+Name: assets/e.mbf
+SHA-256-Digest: 6YsDzxWBEAhR0F0pM9PiC8Pnpdu0ED/gZbQnfrKM624=
+
+Name: assets/f.mbf
+SHA-256-Digest: Eqae1+SyVt5jNvzPsSV+EfanuZ8bjj5pMbhMCFrkIwk=
+
+Name: assets/g.mbf
+SHA-256-Digest: vncoxmQIvjI5YhAbdIuamOqpEacl3yUu5TuRLVS72D4=
+
+Name: assets/h.mbf
+SHA-256-Digest: yUYWmhA3UTUoMjhN66bOpfsiHmgPR4sKEHQpzDbSGQY=
+
+Name: assets/hdr
+SHA-256-Digest: tD8v75TU9hdzM4Fl7XeU6RQk0P7ZJHT3WSsBevAYzWk=
+
+Name: assets/i.mbf
+SHA-256-Digest: u4BfVcfv1kzY9YCC0c4cISQYLMrfEtx7BN/zUOzxeMM=
+
+Name: assets/i.png
+SHA-256-Digest: dpKRZRdZr3+D1J5frgDmvu8T3Mq0vDh7PsNcq3G4eZA=
+
+Name: assets/index
+SHA-256-Digest: wm6Vy529pMfg/c/B8RrEhci8sVZ+F1wV01MMvCjHCC0=
+
+Name: assets/j.mbf
+SHA-256-Digest: TIyzQD+OVSIl6hTAwmqvTszX9/t0JS3qmN/NXPQlgQI=
+
+Name: assets/k.mbf
+SHA-256-Digest: 5z1djGXiJyG86ou6227VKKDzWxpeQLyjF5i0auKN5lc=
+
+Name: assets/mgc27282.png
+SHA-256-Digest: ZnBZkoiLqfaOin09yybrUISab9duPj4J6qRCkb2LxW8=
+
+Name: assets/mgc27804.png
+SHA-256-Digest: FZhASCZ3eyNTc4fwWGFYiOY+qZNMTLIqt5+jYxPPVvc=
+
+Name: assets/mgc28182.png
+SHA-256-Digest: ODmZj8PNjfIvAJ8dl98WxiM4yhslWHu1cu+5HSapqp8=
+
+Name: assets/mgc29662.png
+SHA-256-Digest: cXwahRTgaK/fM87Mr/tiv44P9PMZFCt/cO+87/KKsQA=
+
+Name: assets/mgc30403.png
+SHA-256-Digest: hzV8RGPvV+pecGDhcs5n53P6/TWYaVgTgWlAVnLK7DM=
+
+Name: assets/mgc31302.png
+SHA-256-Digest: T07oTRFdpvFxUs5rYb67RIn+06D/xEcaE25iq1ZkO14=
+
+Name: assets/mgi24171.png
+SHA-256-Digest: 4MQkTnY9GbYLtkHTvsZ3/c1YCU5cYCbbiR9zY6kqtQ0=
+
+Name: assets/mgi28442.png
+SHA-256-Digest: JPJYSkCyTg1fYmAQE6r+oy+QgUt/iMNbPcJnzZjDUZc=
+
+Name: assets/mgi28902.png
+SHA-256-Digest: x1SGRhNI0oz6SsZCkSR+hdrnmqbSCAIU9EvXDCfTc24=
+
+Name: assets/mgilog.png
+SHA-256-Digest: d9PZHd29mEo90CjD21A5RKpUShx86zuhHF9N14bltwI=
+
+Name: assets/moregames
+SHA-256-Digest: YaHU6OXbDXQ6IteHOzBf63evXG5u8XxMcB8n3AB2vRY=
+
+Name: assets/t_de
+SHA-256-Digest: 4MbiCGyEe6whRFSHkKZsTczh/xbzLEpcausS6m01/dY=
+
+Name: assets/t_en
+SHA-256-Digest: 5HDH6IyFpl27QhAouXbJYg3UsvejU2KqeDo/FFHDMDg=
+
+Name: assets/t_es-es
+SHA-256-Digest: 1u5Iy1iZr/tUBexg3IJg0v62I6RwaTKMvC1Y1ovJL1o=
+
+Name: assets/t_fr-fr
+SHA-256-Digest: HkbYSQqaK+g+mxE+taybnvlpK7qnbEbzooesPWTsNTw=
+
+Name: assets/t_it
+SHA-256-Digest: 1mpazMU2nZ9TSx8NmGAgEZm3rMIYluJETR9ccoVIOr4=
+
+Name: classes.dex
+SHA-256-Digest: UEvxRsBDfd01LvyiSUsCQSUaOt3qIHgPP0iz6qQ/E1I=
+
+Name: res/drawable/icon.png
+SHA-256-Digest: oKp7njLK6bCR/0N6Op4Eu01D7wmXm3sSpPgBkQclTic=
+
+Name: resources.arsc
+SHA-256-Digest: ZoJ04dobz+aSn+py++WRpiZ5rtlvnVnNFtXjXLvqXnI=
+

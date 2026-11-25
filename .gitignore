@@ -1,0 +1,4 @@
+build/
+unaligned.apk
+aligned.apk
+*.idsig
